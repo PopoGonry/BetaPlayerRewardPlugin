@@ -1,0 +1,7 @@
+name: BetaPlayerRewardPlugin
+version: '1.0-SNAPSHOT'
+main: com.popogonry.betaPlayerRewardPlugin.BetaPlayerRewardPlugin
+api-version: '1.21'
+commands:
+  베타보상:
+
